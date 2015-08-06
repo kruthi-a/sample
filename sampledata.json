@@ -1,0 +1,213 @@
+{
+    "authors" : [
+    {
+        "id" : 0,
+        "first_name" : "Magic",
+        "last_name" : "Unicorn",
+        "email" : "magic.unicorn@cdk.com",
+        "position" : "Mascot"
+    },
+    {
+        "id" : 1,
+        "first_name" : "Cute",
+        "last_name" : "Kitten",
+        "email" : "cute.kitten@cdk.com",
+        "position" : "Internet Meme"
+    },
+    {
+        "id" : 2,
+        "first_name" : "Rock",
+        "last_name" : "Star",
+        "email" : "super.star@cdk.com",
+        "position" : "Ninja Coder"
+    },
+    {
+        "id" : 3,
+        "first_name" : “Kruthi”,
+        "last_name" : “Annigeri”,
+        "email" : “kruthi.annigeri@cdk.com”,
+        "position" : “Office Seat Filler“
+    },
+    {
+        "id" : 4,
+        "first_name" : “Annie”,
+        "last_name" : “Tamashiro”,
+        "email" : “annie.tamashiro@cdk.com”,
+        "position" : “Team Mascot/Contact Bearer“
+    },
+    {
+        "id" : 5,
+        "first_name" : “Adrianne”,
+        "last_name" : “Dowd”,
+        "email" : “adrianne.dowd@cdk.com”,
+        "position" : “Product Owner“
+    },
+    {
+        "id" : 6,
+        "first_name" : “Adron”,
+        "last_name" : “Hall”,
+        "email" : “adron.hall@cdk.com”,
+        "position" : “Twitter Tech Magnate“
+    },
+    {
+        "id" : 7,
+        "first_name" : “Daniel”,
+        "last_name" : “New”,
+        "email" : “daniel.new@cdk.com”,
+        "position" : “Probably Something Important“
+    },
+    {
+        "id" : 8,
+        "first_name" : “Joe”,
+        "last_name" : “Inglish”,
+        "email" : “joseph.inglish@cdk.com”,
+        "position" : “Cotton Eye Joe“
+    },
+    {
+        "id" : 9,
+        "first_name" : “Sonja”,
+        "last_name" : “Olson”,
+        "email" : “sonja.olson@cdk.com”,
+        "position" : “Hammock Owner/Team Visionary“
+    },
+    {
+        "id" : 10,
+        "first_name" : “Elizabeth”,
+        "last_name" : “Halper”,
+        "email" : “elizabeth.halper@cdk.com”,
+        "position" : “Motivational Speaker“
+    },
+    {
+        "id" : 11,
+        "first_name" : “Matt”,
+        "last_name" : “Ong”,
+        "email" : “ongmattd@gmail.com”,
+        "position" : “Dev. Account Owner“
+    },
+    {
+        "id" : 12,
+        "first_name" : “Nicolas”,
+        "last_name" : “Cage”,
+        "email" : “nicolas.cage@cdk.com”,
+        "position" : “Personal Butler of Joe Inglish“
+    },
+    {
+        "id" : 13,
+        "first_name" : “John”,
+        "last_name" : “Liedtke”,
+        "email" : “john.liedtke@cdk.com”,
+        "position" : “Swift Jesus“
+    },
+    {
+        "id" : 14,
+        "first_name" : “Trevor”,
+        "last_name" : “Moore”,
+        "email" : “trevor.moore@cdk.com”,
+        "position" : “MVP“
+    },
+    {
+        "id" : 15,
+        "first_name" : “Mike”,
+        "last_name" : “Shaw”,
+        "email" : “mike.shaw@cdk.com”,
+        "position" : “Best Manager Ever“
+    },
+    {
+        "id" : 16,
+        "first_name" : “Justin”,
+        "last_name" : “Burger”,
+        "email" : “justin.burger@cdk.com”,
+        "position" : “Like a Billion Different Things“
+    },
+    {
+        "id" : 17,
+        "first_name" : “Shannon”,
+        "last_name" : “Drew”,
+        "email" : “shannon.drew@cdk.com”,
+        "position" : “FIFA Master“
+    },
+    {
+        "id" : 18,
+        "first_name" : “Claire”,
+        "last_name" : “Edington”,
+        "email" : “claire.edington@cdk.com”,
+        "position" : “St. Louis Tour Guide“
+    },
+    {
+        "id" : 19,
+        "first_name" : “Brian”,
+        "last_name" : “Strull”,
+        "email" : “brian.strull@cdk.com”,
+        "position" : “Swift God“
+    },
+    {
+        "id" : 20,
+        "first_name" : “Henri”,
+        "last_name" : “Le Chat Noir”,
+        "email" : “henri.lechatnoir@cdk.com”,
+        "position" : “Existential French Cat“
+    },
+    {
+        "id" : 21,
+        "first_name" : “Edward”,
+        "last_name" : “Emu”,
+        "email" : “edward.emu@cdk.com”,
+        "position" : “Emu“
+    },
+    {
+        "id" : 22,
+        "first_name" : “Bruce”,
+        "last_name" : “Wei”,
+        "email" : “bruce.wei@cdk.com”,
+        "position" : “Motorcycle Rider“
+    },
+    {
+        "id" : 23,
+        "first_name" : “Ryson”,
+        "last_name" : “Asunción”,
+        "email" : “ryson.asuncion@cdk.com”,
+        "position" : “Champion Bowler“
+    },
+    {
+        "id" : 24,
+        "first_name" : “Nima”,
+        "last_name" : “Bagheri”,
+        "email" : “nima.bagheri@cdk.com”,
+        "position" : “Former Intern“
+    },
+    {
+        "id" : 25,
+        "first_name" : “Kathryn”,
+        "last_name" : “Maule”,
+        "email" : “kathryn.maule@cdk.com”,
+        "position" : “Hair Dyer“
+    },
+    {
+        "id" : 26,
+        "first_name" : “Rajiv”,
+        "last_name" : “Amar”,
+        "email" : “rajiv.amar@cdk.com”,
+        "position" : “Vice President“
+    },
+    {
+        "id" : 27,
+        "first_name" : “Draco”,
+        "last_name" : “Malfoy”,
+        "email" : “draco.malfoy@cdk.com”,
+        "position" : “Overlord“
+    },
+    {
+        "id" : 28,
+        "first_name" : “Amy”,
+        "last_name" : “King”,
+        "email" : “amy.king@cdk.com”,
+        "position" : “Intern Caretaker“
+    },
+    {
+        "id" : 29,
+        "first_name" : “Tom”,
+        "last_name" : “Riddle”,
+        "email" : “tom.riddle@cdk.com”,
+        "position" : “Snake Whisperer“
+    }]
+}
