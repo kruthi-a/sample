@@ -1,213 +1,243 @@
 {
-    "authors" : [
+      "authors" : [
     {
         "id" : 0,
         "first_name" : "Magic",
         "last_name" : "Unicorn",
         "email" : "magic.unicorn@cdk.com",
-        "position" : "Mascot"
+        "position" : "Mascot”,
+“image”: “http://png-1.findicons.com/files/icons/1214/somatic_ramp_champ/256/magic_unicorn.png”
     },
     {
         "id" : 1,
         "first_name" : "Cute",
         "last_name" : "Kitten",
         "email" : "cute.kitten@cdk.com",
-        "position" : "Internet Meme"
+        "position" : "Internet Meme”,
+“image”: “https://pbs.twimg.com/profile_images/619573624903761920/EGZ2I6wG.jpg”
     },
     {
         "id" : 2,
         "first_name" : "Rock",
         "last_name" : "Star",
         "email" : "super.star@cdk.com",
-        "position" : "Ninja Coder"
+        "position" : "Ninja Coder”,
+“image”: “http://androdir.com/images/0/800_icon.jpg”
     },
     {
         "id" : 3,
         "first_name" : “Kruthi”,
         "last_name" : “Annigeri”,
         "email" : “kruthi.annigeri@cdk.com”,
-        "position" : “Office Seat Filler“
+        "position" : “Office Seat Filler“,
+“image”: “https://lh3.googleusercontent.com/-KAXtld-JGzo/AAAAAAAAAAI/AAAAAAAAAAA/mHJETLVxm4M/s46-c-k-no/photo.jpg”
     },
     {
         "id" : 4,
         "first_name" : “Annie”,
         "last_name" : “Tamashiro”,
         "email" : “annie.tamashiro@cdk.com”,
-        "position" : “Team Mascot/Contact Bearer“
+        "position" : “Team Mascot/Contact Bearer“,
+“image”: “https://33.media.tumblr.com/avatar_1cea1c7764fa_96.png”
     },
     {
         "id" : 5,
         "first_name" : “Adrianne”,
         "last_name" : “Dowd”,
         "email" : “adrianne.dowd@cdk.com”,
-        "position" : “Product Owner“
+        "position" : “Product Owner“,
+“image”: “https://s-media-cache-ak0.pinimg.com/avatars/adriannekylie_1337070408_30.jpg”
     },
     {
         "id" : 6,
         "first_name" : “Adron”,
         "last_name" : “Hall”,
         "email" : “adron.hall@cdk.com”,
-        "position" : “Twitter Tech Magnate“
+        "position" : “Twitter Tech Magnate“,
+“image”: “http://epdx.org/system/photos/2911/thumb/adron1.jpg?1309912467”
     },
     {
         "id" : 7,
         "first_name" : “Daniel”,
         "last_name" : “New”,
         "email" : “daniel.new@cdk.com”,
-        "position" : “Probably Something Important“
+        "position" : “Probably Something Important“,
+“image”: “http://ep1.pinkbike.org/ph/hl594867.jpg”
     },
     {
         "id" : 8,
         "first_name" : “Joe”,
         "last_name" : “Inglish”,
         "email" : “joseph.inglish@cdk.com”,
-        "position" : “Cotton Eye Joe“
+        "position" : “Cotton Eye Joe“,
+“image”: “https://scontent.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11750709_10153639494544238_6649921429421246341_n.jpg?oh=7c720123d09b9e1413d9e609557baeed&oe=5653DDD5”
     },
     {
         "id" : 9,
         "first_name" : “Sonja”,
         "last_name" : “Olson”,
         "email" : “sonja.olson@cdk.com”,
-        "position" : “Hammock Owner/Team Visionary“
+        "position" : “Hammock Owner/Team Visionary“,
+“image”: “https://pbs.twimg.com/profile_images/621086679143616513/2ANX2MCn_normal.jpg”
     },
     {
         "id" : 10,
         "first_name" : “Elizabeth”,
         "last_name" : “Halper”,
         "email" : “elizabeth.halper@cdk.com”,
-        "position" : “Motivational Speaker“
+        "position" : “Motivational Speaker“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAItAAAAJDA4NDcxYzcwLWFkYTItNDM1ZC1hZGQzLWI4ZjQxNWEyNTIxYg.jpg”
     },
     {
         "id" : 11,
         "first_name" : “Matt”,
         "last_name" : “Ong”,
         "email" : “ongmattd@gmail.com”,
-        "position" : “Dev. Account Owner“
+        "position" : “Dev. Account Owner“,
+“image”: “https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p320x320/10926430_10153511479614307_1823661551630141783_n.jpg?oh=073b520cfbce51d8855a6fdec971f3d0&oe=564EFA5A&__gda__=1451398093_1b2d977d02a1ef7a3b183b84328f74c4”
     },
     {
         "id" : 12,
         "first_name" : “Nicolas”,
         "last_name" : “Cage”,
         "email" : “nicolas.cage@cdk.com”,
-        "position" : “Personal Butler of Joe Inglish“
+        "position" : “Personal Butler of Joe Inglish“,
+“image”: “https://slack-files.com/files-tmb/T053JJQFQ-F08NQEU90-31ac39a555/11252109_10153446569848972_2888356951473885525_n_360.jpg”
     },
     {
         "id" : 13,
         "first_name" : “John”,
         "last_name" : “Liedtke”,
         "email" : “john.liedtke@cdk.com”,
-        "position" : “Swift Jesus“
+        "position" : “Swift Jesus“,
+“image”: “https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/10647165_10206339051943831_6292970996289296983_n.jpg?oh=b0dd71e0bf54b60e98c60f9b2928ef85&oe=563906D5”
     },
     {
         "id" : 14,
         "first_name" : “Trevor”,
         "last_name" : “Moore”,
         "email" : “trevor.moore@cdk.com”,
-        "position" : “MVP“
+        "position" : “MVP“,
+“image”: “https://angularjs.org/favicon.ico”
     },
     {
         "id" : 15,
         "first_name" : “Mike”,
         "last_name" : “Shaw”,
         "email" : “mike.shaw@cdk.com”,
-        "position" : “Best Manager Ever“
+        "position" : “Best Manager Ever“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/091/3f1/290c3b6.jpg”
     },
     {
         "id" : 16,
         "first_name" : “Justin”,
         "last_name" : “Burger”,
         "email" : “justin.burger@cdk.com”,
-        "position" : “Like a Billion Different Things“
+        "position" : “Like a Billion Different Things“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/1ee/30c/0fd717e.jpg”
     },
     {
         "id" : 17,
         "first_name" : “Shannon”,
         "last_name" : “Drew”,
         "email" : “shannon.drew@cdk.com”,
-        "position" : “FIFA Master“
+        "position" : “FIFA Master“,
+“image”: “https://instagramimages-a.akamaihd.net/profiles/profile_219475559_75sq_1354496687.jpg”
     },
     {
         "id" : 18,
         "first_name" : “Claire”,
         "last_name" : “Edington”,
         "email" : “claire.edington@cdk.com”,
-        "position" : “St. Louis Tour Guide“
+        "position" : “St. Louis Tour Guide“,
+“image”: “https://scontent.xx.fbcdn.net/hphotos-xap1/t31.0-8/1523406_275119799305467_1032917646_o.jpg”
     },
     {
         "id" : 19,
         "first_name" : “Brian”,
         "last_name" : “Strull”,
         "email" : “brian.strull@cdk.com”,
-        "position" : “Swift God“
+        "position" : “Swift God“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/1d1/24a/26c6224.jpg”
     },
     {
         "id" : 20,
         "first_name" : “Henri”,
         "last_name" : “Le Chat Noir”,
         "email" : “henri.lechatnoir@cdk.com”,
-        "position" : “Existential French Cat“
+        "position" : “Existential French Cat“,
+“image”: “https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/199636264671057832_1352302306.jpg”
     },
     {
         "id" : 21,
         "first_name" : “Edward”,
         "last_name" : “Emu”,
         "email" : “edward.emu@cdk.com”,
-        "position" : “Emu“
+        "position" : “Emu“,
+“image”: “https://pbs.twimg.com/profile_images/611162783040860161/o-pORLe4.jpg”
     },
     {
         "id" : 22,
         "first_name" : “Bruce”,
         "last_name" : “Wei”,
         "email" : “bruce.wei@cdk.com”,
-        "position" : “Motorcycle Rider“
+        "position" : “Motorcycle Rider“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/03b/348/2619ae2.jpg”
     },
     {
         "id" : 23,
         "first_name" : “Ryson”,
         "last_name" : “Asunción”,
         "email" : “ryson.asuncion@cdk.com”,
-        "position" : “Champion Bowler“
+        "position" : “Champion Bowler“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/067/13e/04360b5.jpg”
     },
     {
         "id" : 24,
         "first_name" : “Nima”,
         "last_name" : “Bagheri”,
         "email" : “nima.bagheri@cdk.com”,
-        "position" : “Former Intern“
+        "position" : “Former Intern“,
+“image”: “https://media.licdn.com/media/p/7/000/1b0/0f9/3cc39d6.jpg”
     },
     {
         "id" : 25,
         "first_name" : “Kathryn”,
         "last_name" : “Maule”,
         "email" : “kathryn.maule@cdk.com”,
-        "position" : “Hair Dyer“
+        "position" : “Hair Dyer“,
+“image”: “http://eecs.oregonstate.edu/sites/eecs.oregonstate.edu/files/images/maule-kathryn.jpg”
     },
     {
         "id" : 26,
         "first_name" : “Rajiv”,
         "last_name" : “Amar”,
         "email" : “rajiv.amar@cdk.com”,
-        "position" : “Vice President“
+        "position" : “Vice President“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKIAAAAJGViNDZhNTNiLWMwMGQtNDNhMC1hODY0LThiZTc1M2YxZmIzNg.jpg”
     },
     {
         "id" : 27,
         "first_name" : “Draco”,
         "last_name" : “Malfoy”,
         "email" : “draco.malfoy@cdk.com”,
-        "position" : “Overlord“
+        "position" : “Overlord“,
+“image”: “http://images6.fanpop.com/image/photos/35100000/draco-malfoy-icons-draco-malfoy-35136372-200-200.png”
     },
     {
         "id" : 28,
         "first_name" : “Amy”,
         "last_name" : “King”,
         "email" : “amy.king@cdk.com”,
-        "position" : “Intern Caretaker“
+        "position" : “Intern Caretaker“,
+“image”: “https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/147/2d1/32b5277.jpg”
     },
     {
         "id" : 29,
         "first_name" : “Tom”,
         "last_name" : “Riddle”,
         "email" : “tom.riddle@cdk.com”,
-        "position" : “Snake Whisperer“
+        "position" : “Snake Whisperer“,
+“image”: “https://38.media.tumblr.com/8b4968c39f356e10b864a2fbd3dfa679/tumblr_inline_n06fn6keJ61spibm3.jpg”
     }]
 }
